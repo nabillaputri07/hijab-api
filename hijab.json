@@ -1,20 +1,20 @@
-[
+ [
   {
     "id": 1,
     "name": "Pashmina Ceruty",
-    "image": "https://picsum.photos/150",
-    "description": "Hijab ringan dan nyaman untuk sehari-hari"
+    "image": "https://images.unsplash.com/photo-1623071552225-9b68b3f3e2d6",
+    "description": "Hijab pashmina berbahan ceruty yang ringan dan jatuh"
   },
   {
     "id": 2,
     "name": "Hijab Segi Empat Polos",
-    "image": "https://picsum.photos/150",
-    "description": "Model hijab simpel dan elegan"
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990",
+    "description": "Hijab segi empat polos dengan tampilan rapi"
   },
   {
     "id": 3,
     "name": "Hijab Voal Premium",
-    "image": "https://picsum.photos/150",
-    "description": "Hijab dengan bahan adem dan jatuh"
+    "image": "https://images.unsplash.com/photo-1598970434795-0c54fe7c0648",
+    "description": "Hijab voal premium dengan tekstur tipis dan adem"
   }
 ]
