@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Pashmina Ceruty",
+    "image": "https://via.placeholder.com/150",
+    "description": "Hijab ringan dan nyaman untuk sehari-hari"
+  },
+  {
+    "id": 2,
+    "name": "Hijab Segi Empat Polos",
+    "image": "https://via.placeholder.com/150",
+    "description": "Model hijab simpel dan elegan"
+  },
+  {
+    "id": 3,
+    "name": "Hijab Voal Premium",
+    "image": "https://via.placeholder.com/150",
+    "description": "Hijab dengan bahan adem dan jatuh"
+  }
+] 
